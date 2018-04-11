@@ -1,1 +1,1 @@
-const test = 'Edvin er rå';
+const test = 'MAGNE er rå';
